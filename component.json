@@ -1,0 +1,17 @@
+{
+  "name": "youtube-meta",
+  "repo": "bmcmahen/youtube-meta",
+  "description": "fetch the meta info for a youtube video",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {
+    "bmcmahen/youtube-id": "0.0.1",
+    "segmentio/load-script": "*"
+  },
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}
